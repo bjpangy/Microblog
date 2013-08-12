@@ -7,6 +7,11 @@
   },
   "dependencies": {
     "express": "3.3.4",
-    "ejs": "*"
+    "ejs": "*",
+    "ejs-locals":"*",
+    "connect-mongo":">=0.1.7",
+    "mongodb":">= 0.0.0",
+    "connect-flash":"*",
+    "express-partials":"*"
   }
 }
